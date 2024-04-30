@@ -1,0 +1,277 @@
+Text 0:
+
+--- text 1: threshold = 1.0, match =  True
+--- text 2: threshold = 0.1797752808988764, match =  False
+--- text 3: threshold = 0.2222222222222222, match =  True
+--- text 4: threshold = 0.10377358490566038, match =  False
+--- text 5: threshold = 0.009569377990430622, match =  False
+--- text 6: threshold = 0.009569377990430622, match =  False
+--- text 7: threshold = 0.0, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.0, match =  False
+--- text 10: threshold = 0.0, match =  False
+--- text 11: threshold = 0.00625, match =  False
+--- text 12: threshold = 0.03296703296703297, match =  False
+--- text 13: threshold = 0.0, match =  False
+--- text 14: threshold = 0.0, match =  False
+
+----------------------------------------------------------
+
+Text 1:
+--- text 0: threshold = 0.9814814814814815, match =  True
+--- text 2: threshold = 0.2188679245283019, match =  True
+--- text 3: threshold = 0.291044776119403, match =  True
+--- text 4: threshold = 0.0761904761904762, match =  False
+--- text 5: threshold = 0.00966183574879227, match =  False
+--- text 6: threshold = 0.00966183574879227, match =  False
+--- text 7: threshold = 0.0, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.0, match =  False
+--- text 10: threshold = 0.02962962962962963, match =  False
+--- text 11: threshold = 0.018867924528301886, match =  False
+--- text 12: threshold = 0.05555555555555555, match =  False
+--- text 13: threshold = 0.0, match =  False
+--- text 14: threshold = 0.0, match =  False
+
+----------------------------------------------------------
+
+Text 2:
+--- text 0: threshold = 0.20224719101123595, match =  True
+--- text 1: threshold = 0.27169811320754716, match =  True
+--- text 3: threshold = 0.9905956112852664, match =  True
+--- text 4: threshold = 0.0842911877394636, match =  False
+--- text 5: threshold = 0.031007751937984496, match =  False
+--- text 6: threshold = 0.031007751937984496, match =  False
+--- text 7: threshold = 0.04784688995215311, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.017391304347826087, match =  False
+--- text 10: threshold = 0.056074766355140186, match =  False
+--- text 11: threshold = 0.05962059620596206, match =  False
+--- text 12: threshold = 0.0, match =  False
+--- text 13: threshold = 0.0189873417721519, match =  False
+--- text 14: threshold = 0.04060913705583756, match =  False
+
+----------------------------------------------------------
+
+Text 3:
+--- text 0: threshold = 0.23703703703703705, match =  True
+--- text 1: threshold = 0.291044776119403, match =  True
+--- text 2: threshold = 1.0094043887147335, match =  True
+--- text 4: threshold = 0.11363636363636363, match =  False
+--- text 5: threshold = 0.03065134099616858, match =  False
+--- text 6: threshold = 0.03065134099616858, match =  False
+--- text 7: threshold = 0.04716981132075472, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.017167381974248927, match =  False
+--- text 10: threshold = 0.07407407407407407, match =  False
+--- text 11: threshold = 0.05913978494623656, match =  False
+--- text 12: threshold = 0.05128205128205128, match =  False
+--- text 13: threshold = 0.018808777429467086, match =  False
+--- text 14: threshold = 0.05, match =  False
+
+----------------------------------------------------------
+
+Text 4:
+--- text 0: threshold = 0.12264150943396226, match =  False
+--- text 1: threshold = 0.10476190476190476, match =  False
+--- text 2: threshold = 0.07662835249042145, match =  False
+--- text 3: threshold = 0.13636363636363635, match =  False
+--- text 5: threshold = 0.029556650246305417, match =  False
+--- text 6: threshold = 0.029556650246305417, match =  False
+--- text 7: threshold = 0.03896103896103896, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.022857142857142857, match =  False
+--- text 10: threshold = 0.14285714285714285, match =  False
+--- text 11: threshold = 0.012738853503184714, match =  False
+--- text 12: threshold = 0.07954545454545454, match =  False
+--- text 13: threshold = 0.007662835249042145, match =  False
+--- text 14: threshold = 0.028169014084507043, match =  False
+
+----------------------------------------------------------
+
+Text 5:
+--- text 0: threshold = 0.009569377990430622, match =  False
+--- text 1: threshold = 0.00966183574879227, match =  False
+--- text 2: threshold = 0.031007751937984496, match =  False
+--- text 3: threshold = 0.03065134099616858, match =  False
+--- text 4: threshold = 0.029556650246305417, match =  False
+--- text 6: threshold = 1.0, match =  True
+--- text 7: threshold = 0.4370860927152318, match =  True
+--- text 8: threshold = 0.09929078014184398, match =  False
+--- text 9: threshold = 0.1511627906976744, match =  False
+--- text 10: threshold = 0.053231939163498096, match =  False
+--- text 11: threshold = 0.03858520900321544, match =  False
+--- text 12: threshold = 0.03468208092485549, match =  False
+--- text 13: threshold = 0.06976744186046512, match =  False
+--- text 14: threshold = 0.07194244604316546, match =  False
+
+----------------------------------------------------------
+
+Text 6:
+--- text 0: threshold = 0.009569377990430622, match =  False
+--- text 1: threshold = 0.00966183574879227, match =  False
+--- text 2: threshold = 0.031007751937984496, match =  False
+--- text 3: threshold = 0.03065134099616858, match =  False
+--- text 4: threshold = 0.029556650246305417, match =  False
+--- text 5: threshold = 1.0, match =  True
+--- text 7: threshold = 0.423841059602649, match =  True
+--- text 8: threshold = 0.09929078014184398, match =  False
+--- text 9: threshold = 0.1511627906976744, match =  False
+--- text 10: threshold = 0.053231939163498096, match =  False
+--- text 11: threshold = 0.03858520900321544, match =  False
+--- text 12: threshold = 0.03468208092485549, match =  False
+--- text 13: threshold = 0.06976744186046512, match =  False
+--- text 14: threshold = 0.07194244604316546, match =  False
+
+----------------------------------------------------------
+
+Text 7:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.0, match =  False
+--- text 2: threshold = 0.04784688995215311, match =  False
+--- text 3: threshold = 0.04716981132075472, match =  False
+--- text 4: threshold = 0.012987012987012988, match =  False
+--- text 5: threshold = 0.3973509933774834, match =  True
+--- text 6: threshold = 0.3973509933774834, match =  True
+--- text 8: threshold = 0.2391304347826087, match =  True
+--- text 9: threshold = 0.2764227642276423, match =  True
+--- text 10: threshold = 0.056074766355140186, match =  False
+--- text 11: threshold = 0.015267175572519083, match =  False
+--- text 12: threshold = 0.0, match =  False
+--- text 13: threshold = 0.0, match =  False
+--- text 14: threshold = 0.17777777777777778, match =  False
+
+----------------------------------------------------------
+
+Text 8:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.0, match =  False
+--- text 2: threshold = 0.0, match =  False
+--- text 3: threshold = 0.0, match =  False
+--- text 4: threshold = 0.0, match =  False
+--- text 5: threshold = 0.1702127659574468, match =  False
+--- text 6: threshold = 0.1702127659574468, match =  False
+--- text 7: threshold = 0.17391304347826086, match =  False
+--- text 9: threshold = 0.6194690265486725, match =  True
+--- text 10: threshold = 0.0, match =  False
+--- text 11: threshold = 0.007936507936507936, match =  False
+--- text 12: threshold = 0.0, match =  False
+--- text 13: threshold = 0.0, match =  False
+--- text 14: threshold = 0.0, match =  False
+
+----------------------------------------------------------
+
+Text 9:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.0, match =  False
+--- text 2: threshold = 0.02608695652173913, match =  False
+--- text 3: threshold = 0.02575107296137339, match =  False
+--- text 4: threshold = 0.022857142857142857, match =  False
+--- text 5: threshold = 0.26744186046511625, match =  True
+--- text 6: threshold = 0.26744186046511625, match =  True
+--- text 7: threshold = 0.21138211382113822, match =  True
+--- text 8: threshold = 0.6902654867256637, match =  True
+--- text 10: threshold = 0.03404255319148936, match =  False
+--- text 11: threshold = 0.0, match =  False
+--- text 12: threshold = 0.0, match =  False
+--- text 13: threshold = 0.0, match =  False
+--- text 14: threshold = 0.036036036036036036, match =  False
+
+----------------------------------------------------------
+
+Text 10:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.05925925925925926, match =  False
+--- text 2: threshold = 0.037383177570093455, match =  False
+--- text 3: threshold = 0.06172839506172839, match =  False
+--- text 4: threshold = 0.12030075187969924, match =  False
+--- text 5: threshold = 0.08365019011406843, match =  False
+--- text 6: threshold = 0.08365019011406843, match =  False
+--- text 7: threshold = 0.04672897196261682, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.07659574468085106, match =  False
+--- text 11: threshold = 0.12834224598930483, match =  False
+--- text 12: threshold = 0.06779661016949153, match =  False
+--- text 13: threshold = 0.08722741433021806, match =  False
+--- text 14: threshold = 0.37623762376237624, match =  True
+
+----------------------------------------------------------
+
+Text 11:
+--- text 0: threshold = 0.0125, match =  False
+--- text 1: threshold = 0.03773584905660377, match =  False
+--- text 2: threshold = 0.06504065040650407, match =  False
+--- text 3: threshold = 0.06451612903225806, match =  False
+--- text 4: threshold = 0.006369426751592357, match =  False
+--- text 5: threshold = 0.05787781350482315, match =  False
+--- text 6: threshold = 0.05787781350482315, match =  False
+--- text 7: threshold = 0.022900763358778626, match =  False
+--- text 8: threshold = 0.023809523809523808, match =  False
+--- text 9: threshold = 0.0, match =  False
+--- text 10: threshold = 0.13903743315508021, match =  False
+--- text 12: threshold = 0.09859154929577464, match =  False
+--- text 13: threshold = 0.08130081300813008, match =  False
+--- text 14: threshold = 0.008, match =  False
+
+----------------------------------------------------------
+
+Text 12:
+--- text 0: threshold = 0.06593406593406594, match =  False
+--- text 1: threshold = 0.07777777777777778, match =  False
+--- text 2: threshold = 0.0, match =  False
+--- text 3: threshold = 0.07692307692307693, match =  False
+--- text 4: threshold = 0.056818181818181816, match =  False
+--- text 5: threshold = 0.057803468208092484, match =  False
+--- text 6: threshold = 0.057803468208092484, match =  False
+--- text 7: threshold = 0.0, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.0, match =  False
+--- text 10: threshold = 0.05084745762711865, match =  False
+--- text 11: threshold = 0.09154929577464789, match =  False
+--- text 13: threshold = 0.05194805194805195, match =  False
+--- text 14: threshold = 0.017857142857142856, match =  False
+
+----------------------------------------------------------
+
+Text 13:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.0, match =  False
+--- text 2: threshold = 0.0189873417721519, match =  False
+--- text 3: threshold = 0.018808777429467086, match =  False
+--- text 4: threshold = 0.007662835249042145, match =  False
+--- text 5: threshold = 0.06976744186046512, match =  False
+--- text 6: threshold = 0.06976744186046512, match =  False
+--- text 7: threshold = 0.0, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.0, match =  False
+--- text 10: threshold = 0.11214953271028037, match =  False
+--- text 11: threshold = 0.08672086720867209, match =  False
+--- text 12: threshold = 0.06060606060606061, match =  False
+--- text 14: threshold = 0.04060913705583756, match =  False
+
+----------------------------------------------------------
+
+Text 14:
+--- text 0: threshold = 0.0, match =  False
+--- text 1: threshold = 0.0, match =  False
+--- text 2: threshold = 0.02030456852791878, match =  False
+--- text 3: threshold = 0.03, match =  False
+--- text 4: threshold = 0.028169014084507043, match =  False
+--- text 5: threshold = 0.07194244604316546, match =  False
+--- text 6: threshold = 0.07194244604316546, match =  False
+--- text 7: threshold = 0.15555555555555556, match =  False
+--- text 8: threshold = 0.0, match =  False
+--- text 9: threshold = 0.07207207207207207, match =  False
+--- text 10: threshold = 0.16831683168316833, match =  False
+--- text 11: threshold = 0.008, match =  False
+--- text 12: threshold = 0.017857142857142856, match =  False
+--- text 13: threshold = 0.030456852791878174, match =  False
+
+----------------------------------------------------------
+
+Clusters:  [{0, 1, 2, 3}, {5, 6, 7, 8, 9}, {10, 14}]
+
+1 - Завод Урал Холдинг Руспрамавто
+2 - Падение курса
+3 - Взаимоотношения Грузии, РФ и США
+
